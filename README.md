@@ -2,20 +2,23 @@
 
 A clean, modern single-page web app to explore country information: flag, coat of arms, capital, population, currency, languages, driving side, time zones, Gini index, and more — powered by the free REST Countries API.
 
-![Globe Insights Explorer Screenshot](https://via.placeholder.com/800x500/4f46e5/ffffff?text=App+Screenshot+Here)  
-*(Replace this placeholder with a real screenshot of your running app — upload it to the repo or use imgur)*
+![View](GIE1.jpeg)  
+![View](GIE2.jpeg)  
+![View](GIE3.jpeg)  
+![View](GIE4.jpeg)  
+
 
 ## Live Demo (No account/login needed)
 
 Just click this link — it renders your HTML file directly in the browser:
 
-**[➜ Open Live Demo](https://htmlpreview.github.io/?https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/globe-insights.html)**
+**[➜ Open Live Demo](https://wisemansg.github.io/globalinsightsexplorer/)**
 
 (Replace `YOUR_USERNAME` / `YOUR_REPO` and make sure the file is named `globe-insights.html` or adjust the path.)
 
 ## How to run locally (zero setup)
 
-1. Download or copy the file [`globe-insights.html`](#full-source-code-below)
+1. Download or copy the file (https://github.com/wisemansg/globalinsightsexplorer/blob/main/index.html)
 2. Save it to your computer
 3. Double-click the file — it opens in your browser and works offline (after first load, since it fetches data from the internet)
 
