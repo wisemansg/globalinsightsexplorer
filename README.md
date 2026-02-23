@@ -2,11 +2,10 @@
 
 A clean, modern single-page web app to explore country information: flag, coat of arms, capital, population, currency, languages, driving side, time zones, Gini index, and more, powered by the free REST Countries API.
 
-![View](GIE1.jpeg)  
-![View](GIE2.jpeg)  
-![View](GIE3.jpeg)  
-![View](GIE4.jpeg)  
-
+![View](./globalinsightsexplorerassets/GIE1.jpeg)  
+![View](./globalinsightsexplorerassets/GIE2.jpeg)  
+![View](./globalinsightsexplorerassets/GIE3.jpeg)  
+![View](./globalinsightsexplorerassets/GIE4.jpeg)  
 
 ## Live Demo (No account/login needed)
 
