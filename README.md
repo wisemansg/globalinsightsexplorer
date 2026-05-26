@@ -1,4 +1,15 @@
-# Globe Insights Explorer
+# Globe Insights Explorer 🌍
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20Countries%20API-009688?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-4285F4?logo=googlechrome&logoColor=white" />
+</p>
+
+---
 
 A clean, modern single-page web app to explore country information: flag, coat of arms, capital, population, currency, languages, driving side, time zones, Gini index, and more, powered by the free REST Countries API.
 
